@@ -1,0 +1,22 @@
+# Project information
+site_name: "Depaltformer Documentation"
+site_description: "Deplatformer ...."
+site_author: deplatformer.io
+site_url: https://docs.deplatformer.io/
+
+# Repository
+repo_name: deplatformer-docs
+repo_url: https://github.com/deplatformer/deplatformer-docs
+
+# Copyright
+copyright: "&copy; Deplatformer"
+
+theme:
+  name: material
+  logo: images/white-logo.png
+  favicon: images/favicon.ico
+
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
